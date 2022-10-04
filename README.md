@@ -1,2 +1,2 @@
 # GraphTrip
-The source codes of GraphTrip will be available soon.
+The source codes of GraphTrip are available now. Any comments are appreciated.
